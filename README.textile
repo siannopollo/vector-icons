@@ -1,6 +1,8 @@
 h1. Vector Icons
 
-p. Right now there is only 1 file (icons.svg). It contains a few of the silk icons ported over to vector graphics that I had need of on a project I am working on. Icons include a book, CD, music note, and a game controller (my favorite!).
+p. Right now there is only 1 file (icons.svg). It contains a few of the silk icons ported over to vector graphics that I had need of on a project I am working on. Icons include a book, CD, music note, a game controller (my favorite!), a letter, and planet earth.
+
+p. Created using the awesome, free graphics program "Inkscape":http://inkscape.org.
 
 Copyright (c) 2009 Steve Iannopollo
 
